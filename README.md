@@ -1,1 +1,3 @@
-# alx-airbnb-project-documentation
+#USER STORIES
+## Author
+- Clearence Mpho Muluvhu
